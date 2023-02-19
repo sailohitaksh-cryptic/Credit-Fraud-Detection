@@ -1,5 +1,5 @@
 # Sampling Assignment
-# Comparing Sampling Techniques for 5 Machine Learning Models
+## Comparing Sampling Techniques for 5 Machine Learning Models
 
 ## Introduction
 
